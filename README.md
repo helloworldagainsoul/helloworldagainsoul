@@ -33,7 +33,7 @@ An AI-powered quiz generator web app that takes any PDF (e.g., lecture notes, me
 🔹 **Key Features:** PDF upload, dynamic MCQ generation, real-time evaluation, DOCX export  
 
 
-🔗 [**Code**](https://github.com/helloworldagainsoul/Quiz-n-learn)
+🔗 [**Code**](https://github.com/helloworldagainsoul/QUIZ-N-LEARN-PROJECT)
 
 
 ---
