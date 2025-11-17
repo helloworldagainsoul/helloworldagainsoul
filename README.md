@@ -33,7 +33,7 @@ An AI-powered quiz generator web app that takes any PDF (e.g., lecture notes, me
 🔹 **Key Features:** PDF upload, dynamic MCQ generation, real-time evaluation, DOCX export  
 
 
-🔗 [**Code**](https://github.com/KAsHiSHSET/QUIZ_N_LEARN_project)
+🔗 [**Code**](https://github.com/helloworldagainsoul/Quiz-n-learn)
 
 
 ---
@@ -48,7 +48,7 @@ A travel planning web app where users can sign up, explore destinations, build i
 🔹 **Key Features:** Signup/login, itinerary dashboard, responsive destination cards  
 
 
-🔗 [**Code**](https://github.com/KAsHiSHSET/Wanderlust_website)
+🔗 [**Code**](https://github.com/helloworldagainsoul/Wanderlust)
 
 
 ---
