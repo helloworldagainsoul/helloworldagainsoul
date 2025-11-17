@@ -82,7 +82,7 @@ A gesture-based AI calculator that lets users draw math problems using OpenCV an
 
 - 💬 Always up for a good tech conversation! Feel free to ask me about **anything related to Computer Science or Web Development**.
 
-- 📫 Reach out to me: **kseth9852@gmail.com**
+- 📫 Reach out to me: **varahsiddhi1516@gmail.com**
 
 - ⚡ Fun Fact: **Math is easy—especially when "1" + "1" = "11" 😉**
 
