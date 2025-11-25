@@ -6,7 +6,7 @@
 
 <h3 align="left">
 
-I'm a dedicated Computer Engineering undergraduate at <b>Thapar Institute of Engineering and Technology</b>, with  interests in <b>Animation</b> and <b>Full-Stack Development</b>.
+I'm a dedicated Computer Engineering undergraduate , with  interests in <b>Animation</b> and <b>Full-Stack Development</b>.
 
 
 
