@@ -4,7 +4,7 @@
 
 
 
-<h3 align="left">
+
 
 👋 I'm a dedicated <b>Computer Engineering undergraduate</b>, with interests in <b>AI Technology</b> and <b>UI/UX Full-Stack Development</b>.
 
@@ -12,7 +12,7 @@
 
 📌 Passionate about leveraging AI and technology to build accessible, intuitive, and socially impactful solutions for real-world challenges.
 
-</h3>
+
 
 
 
