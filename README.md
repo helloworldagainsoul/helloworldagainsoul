@@ -38,6 +38,18 @@ An AI-powered quiz generator web app that takes any PDF (e.g., lecture notes, me
 
 ---
 
+
+### 🌾 Rural Query Analyzer using Multilingual BERT
+
+Reimagining rural public service access through multilingual AI, transforming citizen queries into meaningful guidance by automatically classifying complaints and connecting communities with the right government departments, services, and resources. Designed to make government support more accessible, the system helps rural citizens navigate public services with greater ease and confidence.
+
+
+🔹 Tech Stack: Python, PyTorch, Hugging Face Transformers, Multilingual BERT, Scikit-Learn, Pandas, NumPy, Google Colab
+
+🔹 **Key Features:** Query Classification, Department Recommendation, Service Recommendation, Portal Recommendation, Multilingual Support
+
+🔗 **Code:** https://github.com/helloworldagainsoul/Rural-Query-Analyzer-BERT
+
 ### 🌐 Wanderlust
 
 A travel planning web app where users can sign up, explore destinations, build itineraries, and connect with fellow travelers. Features authentication, REST APIs, and a modern UI.
