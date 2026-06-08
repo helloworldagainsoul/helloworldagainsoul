@@ -85,17 +85,17 @@ A gesture-based AI calculator that lets users draw math problems using OpenCV an
   </a>
 </p>
   
-- 🌱 Actively sharpening my skills in **Data Structures & Algorithms**.
+-🌱 Currently deepening my knowledge in AI, Machine Learning, Computer Vision, and Data Structures & Algorithms.
 
-- 👯 Looking to collaborate on impactful and innovative projects in **MERN stack**.
+-👯 Looking to collaborate on impactful projects that combine AI, user-centric design, and real-world problem solving.
 
-- 📝 Passionate about simplifying complex tech concepts—I regularly jot down learnings and ideas in my personal knowledge base.
+-Passionate about transforming complex technologies into practical, user-centric solutions, while documenting learnings, UI/UX insights, ideas, and project experiences along the way.
 
-- 💬 Always up for a good tech conversation! Feel free to ask me about **anything related to Computer Science or Web Development**.
+- ✨ Constantly exploring the intersection of AI, intelligent systems, user-centric design to build technology that makes a difference and also  always eager to build solutions that create real-world impact.
 
 - 📫 Reach out to me: **varahsiddhi1516@gmail.com**
 
-- ⚡ Fun Fact: **Math is easy—especially when "1" + "1" = "11" 😉**
+- ⚡ Fun Fact: I'm equally passionate about building intelligent systems and crafting user experiences that make them effortless to use.
 
 
 <h3 align="left">Languages and Tools:</h3>
