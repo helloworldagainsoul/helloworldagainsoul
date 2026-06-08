@@ -6,11 +6,13 @@
 
 <h3 align="left">
 
-I'm a dedicated Computer Engineering undergraduate , with  interests in <b>Animation</b> and <b>Full-Stack Development</b>.
+I'm a dedicated Computer Engineering undergraduate , with  interests in <b>AI Technology</b> and <b>UI UX </b> <b>Full-Stack Development</b>.
 
 
+🚀 Building projects in NLP, Multi-Agent AI, Computer Vision, UI/UX Design, and Full-Stack Development to create meaningful real-world solutions.
 
-📬 Always open to collaborations, research opportunities, and exciting challenges in the fields of AI and software engineering.
+📌 Passionate about leveraging AI and technology to build accessible, intuitive, and socially impactful solutions for real-world challenges.
+
 
 </h3>
 
