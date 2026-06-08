@@ -10,7 +10,7 @@
 
 🚀 Building projects in NLP, Multi-Agent AI, Computer Vision, UI/UX Design, and Full-Stack Development to create meaningful real-world solutions.
 
-📌 Passionate about leveraging AI and technology to build accessible, intuitive, and socially impactful solutions for real-world challenges.
+✨ Passionate about leveraging AI and technology to build accessible, intuitive, and socially impactful solutions for real-world challenges.
 
 
 
